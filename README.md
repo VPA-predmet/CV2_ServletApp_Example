@@ -28,8 +28,8 @@ Now let us do discuss eccentric point that why do we need For Server-Side extens
 
 # helpful links with more information
 
-[Servlet info ](https://www.geeksforgeeks.org/introduction-java-servlets/)
+[JSF info ](https://www.geeksforgeeks.org/introduction-java-servlets/)
 
-[Jakarta Servlet ](https://jakarta.ee/learn/docs/jakartaee-tutorial/current/web/servlets/servlets.html)
+[JSF sk/cz info ](https://www.itnetwork.sk/java/jee/java-jee-tutorial-uvod-do-jsf)
 
-[Servlet video cz/sk ](https://www.youtube.com/watch?v=z5uvktj66gg)
+[JSF video cz/sk ](https://www.youtube.com/watch?v=nxsoHO-ZcFk&t=4s)
